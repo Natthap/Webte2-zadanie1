@@ -5,5 +5,5 @@
  * Time: 11:03
  */--->
 <head>
-    <link rel="stylesheet" href="../css/googleCharts.css">
+    <link rel="stylesheet" href="css/googleCharts.css">
 </head>
