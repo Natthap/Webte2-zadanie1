@@ -17,6 +17,7 @@
 
 #bodyId {
     width: 100%;
+    min-height: 500px;
     background: white;
 }
 
@@ -28,14 +29,15 @@
 }
 
 ::-webkit-scrollbar {
-    width: 0px;  /* remove scrollbar space */
-    background: transparent;  /* optional: just make scrollbar invisible */
+    width: 0px;
+    background: transparent;
 }
 
 .center {
     width: 60%;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 50px;
 }
 
 #bodyDiv {
