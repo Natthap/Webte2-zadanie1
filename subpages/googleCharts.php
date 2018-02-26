@@ -9,7 +9,7 @@
     <div id="chart_div3" class="chart"></div>
     <div id="chart_div4" class="chart"></div>
 </div>
-<div class="mainDiv" style="padding-bottom: 50px">
+<div class="mainDiv">
     <h1>Stlpcove grafy:</h1>
     <div id="top_div" class="chart1"></div>
     <div id="top_div1" class="chart1"></div>

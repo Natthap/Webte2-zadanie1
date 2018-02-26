@@ -6,7 +6,7 @@
 
 <body>
 <div id="bodyDiv">
-    <div id="left"></div>
+    <div id="headerId"></div>
     <div id="bodyId">
         <?php
             $page = $_GET["page"];
@@ -23,7 +23,6 @@
             }
         ?>
     </div>
-    <div id="right"></div>
 </div>
 </body>
 </html>
