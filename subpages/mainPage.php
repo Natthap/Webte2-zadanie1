@@ -8,5 +8,5 @@
     <img src="img/pieChart.php" width="100" height="100"/>
 </a>
 <a class="mainPageHref" href="index.php?page=googleCharts" onclick="clearContent()">
-    <img border="0" alt="Odkaz na Google Charts" src="img/back.jpg" width="100" height="100">
+    <img border="0" alt="Odkaz na Google Charts" src="img/pinkguyHead.png" width="100" height="100">
 </a>

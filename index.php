@@ -20,7 +20,6 @@
                 default;
                     include("subpages/mainPage.php");
                     break;
-
             }
         ?>
     </div>
