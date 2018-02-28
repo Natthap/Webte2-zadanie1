@@ -1,6 +1,6 @@
 <div class="mainDiv">
     <a href="index.php" class="container" onclick="clearContent()" style="float: right">
-        <img src="img/back.jpg" class="image" width="100px" height="100px">
+        <img src="img/back.jpg" class="image" alt="Back image">
         <div class="middle">
             <div class="text">Späť</div>
         </div>

@@ -9,6 +9,15 @@
     margin-bottom: 20px;
 }
 
+.width {
+    width: 100%;
+}
+
+.imageSize {
+    width: 400px;
+    height: 300px;
+}
+
 .mainDiv {
     display: block;
     position: relative;
